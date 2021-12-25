@@ -7,4 +7,4 @@
 
 A console library system made in C language using abstract data type.
 
-To run the program, you just need to run the Main.c file.
+To run the program, you just need compile all files and run Main.c file.
